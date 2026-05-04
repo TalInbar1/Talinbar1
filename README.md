@@ -27,4 +27,4 @@ My academic and personal journey is driven by a deep passion for the intersectio
 
 ---
 
-📫 **Let's Connect:** [linkedin.com/in/tal-inbar-a1a0a8345) | [Email](mailto:talinbar10@gmail.com)
+📫 **Let's Connect:** [LinkedIn](linkedin.com/in/tal-inbar-a1a0a8345) | [Email](mailto:talinbar10@gmail.com)
