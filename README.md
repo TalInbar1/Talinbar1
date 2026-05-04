@@ -16,7 +16,7 @@ My academic and personal journey is driven by a deep passion for the intersectio
 
 ### Technical Stack
 * **Programming & Databases:** SQL (TSQL), Python, R, Java, VBA.
-* **Tools & Platforms:** Monday.com, Tableau, Jupyter Notebook, Microsoft Excel (Advanced).
+* **Tools & Platforms:** Monday.com, Jupyter Notebook, Microsoft Excel (Advanced), Power BI.
 * **Methodologies:** Linear Regression, Simulation Modeling, Operations Research, System Analysis & Design.
 
 ---
@@ -25,10 +25,6 @@ My academic and personal journey is driven by a deep passion for the intersectio
 * **B.Sc. in Industrial Engineering & Management**  
   *Ben-Gurion University of the Negev (Expected 2027)*
 
-### Military Service
-* **Combat Veteran, Elite Unit**  
-  *Developed strong teamwork, rapid problem-solving, and strategic planning skills.*
-
 ---
 
-📫 **Let's Connect:** [LinkedIn](your-linkedin-link) | [Email](mailto:your-email@example.com)
+📫 **Let's Connect:** [linkedin.com/in/tal-inbar-a1a0a8345) | [Email](mailto:talinbar10@gmail.com)
