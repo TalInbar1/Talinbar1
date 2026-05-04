@@ -23,7 +23,7 @@ My academic and personal journey is driven by a deep passion for the intersectio
 
 ### Education
 * **B.Sc. in Industrial Engineering & Management** | Current GPA: 86
-  *Ben-Gurion University of the Negev (Expected 2027)*
+* *Ben-Gurion University of the Negev (Expected 2027)*
 
 ---
 
