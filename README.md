@@ -1,6 +1,6 @@
 # Tal Inbar
 
-### Industrial Engineering & Management Student | Data Analyst | Aspiring Product Manager
+### Industrial Engineering & Management Student
 
 I am a third-year Industrial Engineering and Management student at Ben-Gurion University of the Negev, currently seeking my first professional role in the industry. As a veteran of an elite IDF unit, I bring a high level of discipline, leadership, and the ability to excel in high-pressure, complex environments.
 
